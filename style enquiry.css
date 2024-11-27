@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+p{
+    font-size: 60px;
+    font-weight: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ .col-md-4{
+  margin: 100px 0 0 50px;
+ }
+ .form{
+    background-color: white;
+    padding:0 100px 0 100px;
+    margin:30px 10% 30px 10%;
+ }
+ .gen-select,.prof-country,.corse-feed{
+    width: fit-content;
+    display: flex;
+    padding: 0 30% 0 30%;
+ }
+ .gen,.prof,.courses{
+    margin:30px 250px 0 80px;
+ }
+ .col-12{
+    margin-left: 15%;
+ }
+ span{
+    color: red;
+ }

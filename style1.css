@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow-x: hidden; */
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aq{
+    background-color:rgb(225, 216, 216);
+    margin-bottom: 50px ;
+}
+.bq{
+    display: flex;
+    justify-content: center;
+}
+.bqq{
+    margin-top: 150px;
+}
+.cq{
+    display: flex;
+    justify-content: space-between;
+    padding:10px 17% 5px 16%;
+}
+.dq{
+    display: flex;
+    justify-content: space-between;
+    padding:10px 17% 5px 16%;
+}
+.dq1{
+    background-color: white;
+    padding: 32px;
+}
+.dq2{
+    background-color: white;
+    padding: 40px;
+}
+.aq1,.aq2{
+    background-color: white;
+    padding: 25px;
+}
+.kk img{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    
+}
+.kk{
+    display: flex;
+}
+.kk p{
+    padding: 35px  0 0 15px;
+}
+.kk span{
+    font-weight: bold;
+}
+.re{
+    background-color:rgb(236, 237, 230);
+}
+.rebox{
+    margin-top: 80px;
+    padding-top: 50px;
+}
+.zama{
+    padding-top: 100px;
+}
+.ss{
+    display: flex;
+    justify-content: space-between;
+    padding:10px 13% 5px 13%;
+}
+.tt{
+    margin-bottom: 100px;
+}
+.qq{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.b1,.b2,.b3{
+    background-color: white;
+    padding: 20px 10px 40px 10px;
+}
+
+.text-center{
+    display: flex;
+}
+.container_footer{
+    background-color:#0274be;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 150px 0 130px;
+    width: 100%;
+}
+li{
+    list-style: none;
+    padding: 8px 0 8px 0;
+}
+a{
+    color: white ;
+}
+.r1{
+    font-size: 10px;
+}
+.r1,.r2,.r3 ul{
+    color:white;
+}
+.r2{
+    padding-right: 250px;  
+}
+.r4{
+    display: flex;
+    justify-content: space-between;
+    border-top: solid;
+    border-top-color: white;
+    border-top-width: 1px;
+    padding: 30px 40% 10px 10%;
+    background-color:#0274be;
+    color: white;
+    width: 100%;
+}
+.r2 a:hover{
+    text-decoration: none;
+}
+.noo:hover{
+    cursor: pointer;
+    color: black;
+}
+.no:hover{
+    cursor: pointer;
+    color: black;
+}
+.nooo:hover{
+    cursor: pointer;
+    color: black;
+}
+.search_bar{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+.heading_searchbar{
+    padding: 50px 0 50px 0;
+    text-align: center;
+}
+.parent{
+    background-color: white;
+}
+input[type="email"]{
+    padding: 10px 350px 10px 10px ;
+    margin-right: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    font-size: 15px;
+}
+button{
+    padding: 10px 40px 10px 40px;
+    font-size: 18px;
+    border-radius: 50px;
+    border-color: none;
+    background-color: blue;
+    color: white;
+}
